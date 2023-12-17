@@ -1,5 +1,5 @@
 from django.db import models
-# name = admin pass = adminadmin
+# name = admin, pass = adminadmin
 
 # Create your models here.
 class ProductCategory(models.Model):
